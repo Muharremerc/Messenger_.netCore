@@ -1,0 +1,16 @@
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.BLL.deps.json
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.BLL.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.BLL.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messege.CORE.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.DAL.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.Entity.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messege.CORE.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.DAL.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\bin\Debug\netcoreapp2.2\Messeger.Entity.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.csprojAssemblyReference.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.AssemblyInfoInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.AssemblyInfo.cs
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.csproj.CopyComplete
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.BLL\obj\Debug\netcoreapp2.2\Messeger.BLL.pdb

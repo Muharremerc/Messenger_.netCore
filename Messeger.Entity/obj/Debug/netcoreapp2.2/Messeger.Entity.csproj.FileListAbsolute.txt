@@ -1,0 +1,12 @@
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\bin\Debug\netcoreapp2.2\Messeger.Entity.deps.json
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\bin\Debug\netcoreapp2.2\Messeger.Entity.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\bin\Debug\netcoreapp2.2\Messeger.Entity.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\bin\Debug\netcoreapp2.2\Messege.CORE.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\bin\Debug\netcoreapp2.2\Messege.CORE.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.csprojAssemblyReference.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.AssemblyInfoInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.AssemblyInfo.cs
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.csproj.CopyComplete
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.Entity\obj\Debug\netcoreapp2.2\Messeger.Entity.pdb

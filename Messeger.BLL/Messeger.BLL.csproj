@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Messege.CORE\Messege.CORE.csproj" />
+    <ProjectReference Include="..\Messeger.DAL\Messeger.DAL.csproj" />
+    <ProjectReference Include="..\Messeger.Entity\Messeger.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.DAL.deps.json
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.DAL.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.DAL.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messege.CORE.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.Entity.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messege.CORE.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.Entity.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.csprojAssemblyReference.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.AssemblyInfoInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.AssemblyInfo.cs
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.csproj.CopyComplete
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\obj\Debug\netcoreapp2.2\Messeger.DAL.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.DAL.runtimeconfig.json
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messeger.DAL\bin\Debug\netcoreapp2.2\Messeger.DAL.runtimeconfig.dev.json

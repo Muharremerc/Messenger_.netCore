@@ -1,0 +1,8 @@
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\bin\Debug\netcoreapp2.2\Messege.CORE.deps.json
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\bin\Debug\netcoreapp2.2\Messege.CORE.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\bin\Debug\netcoreapp2.2\Messege.CORE.pdb
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\obj\Debug\netcoreapp2.2\Messege.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\obj\Debug\netcoreapp2.2\Messege.CORE.AssemblyInfoInputs.cache
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\obj\Debug\netcoreapp2.2\Messege.CORE.AssemblyInfo.cs
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\obj\Debug\netcoreapp2.2\Messege.CORE.dll
+C:\Users\Merc\source\repos\MVC_Messeger_Project\Messege.CORE\obj\Debug\netcoreapp2.2\Messege.CORE.pdb

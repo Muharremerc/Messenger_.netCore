@@ -1,0 +1,107 @@
+﻿@model IQueryable<Messeger.MVC.NetCORE.UI.Models.Api.MessagesMember>
+
+<div class="col-lg-12 main-chart">
+    <section class="wrapper">
+        <div class="row">
+            @if (Model !=null)
+            {
+                foreach (var item in Model)
+                {
+                    <div id="@item.MessageID">
+                        <div class="col-md-6 mb">
+                            <!-- WHITE PANEL - TOP USER -->
+                            <div class="white-panel">
+                                <div class="white-header">
+                                    <h3>@item.Header</h3>
+                                </div>
+                                <p><img src="~/Content/img/ui-zac.jpg" class="img-circle" width="50"></p>
+                                <p><b>@item.Name @item.Surname</b></p>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <p class="small mt">Description</p>
+                                        <p>
+                                            @{
+                                                if (item.Desc.Length > 10)
+                                                {
+                                                    @item.Desc.Substring(0, 10)
+                                                }
+                                                else
+                                                {
+                                                    @item.Desc
+                                                }
+                                            }
+                                        </p>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <p class="small mt">Last Text Date</p>
+                                        <p>@item.LastTextDate</p>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <p class="small mt">Total Text</p>
+                                        <p>@item.TextCount</p>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <p class="small mt">Created Date</p>
+                                        <p>@item.CreatedDate</p>
+                                    </div>
+                                </div>
+                                @*@Html.ActionLink("Send Message", "Index", "Details", new { id = item.MessageID })*@
+                                <div class="profile-01 centered" onclick="toDetails(@item.MessageID)">
+                                    <p>  Send Message</p>
+                                </div>
+                                <div class="steps" style="margin-top:0.3%;" onclick="Delete(@item.MessageID,@item.MemberID)">
+                                    <input type="submit" style="width:49.90%;float:left;margin-right:0.2%" value="Delete!" id="submit">
+                                </div>
+                                <div class="steps" style="margin-top:0.3%;" onclick="Leave(@item.MessageID,@item.MemberID)">
+                                    <input type="submit" style="width:49.90%" value="Leave!" id="submit">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+
+
+        </div>
+    </section>
+</div>
+<script>
+    function toDetails(id) {
+        location.href = '../Details/Index/' + id;
+
+    }
+</script>
+<script>
+    function Delete(_MessageID,_CreaterID) {
+        $.ajax({
+            url:'@Url.Action("Delete","Message")',
+            dataType: 'Json',
+            type:'POST',
+            data: { 'MessageID': _MessageID, 'CreaterID': _CreaterID },
+            success: function () {
+                document.getElementById(_MessageID).innerHTML = null;
+            }
+            
+        })
+
+     
+    }
+    function Leave(_MessageID, _CreaterID) {
+        $.ajax({
+            url: '@Url.Action("Leave","Message")',
+            dataType: 'Json',
+            type: 'POST',
+            data: { 'MessageID': _MessageID, 'CreaterID': _CreaterID },
+            success: function () {
+                document.getElementById(_MessageID).innerHTML = null;
+            }
+
+        })
+    }
+</script>
+
+
+
+@section Css
+    {
+}
